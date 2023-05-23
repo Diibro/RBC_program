@@ -1,0 +1,3 @@
+Dushime	22	Positive	Negative
+Parfaite	20	Positive	Positive
+wert	56	Positive	Negative
